@@ -36,7 +36,6 @@ Following the structure of the companion repository:
 - `experiments/paper4/` — Phase-1 validation gates (M1–M8) and Phase-2
   headline experiments (E1–E10)
 - `papers/paper4/` — manuscript source and figure-generation pipeline
-- `ARTIFACT_MAP.md` — manuscript result ↔ driver script ↔ CSV artifact map
 - `environment.yml` — conda environment specification
 
 ## License
