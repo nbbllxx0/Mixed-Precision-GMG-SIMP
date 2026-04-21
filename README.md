@@ -41,4 +41,5 @@ Following the structure of the companion repository:
 
 ## License
 
-Code will be released under the MIT license at the time of arXiv publication.
+Code will be released under the BSD 3-Clause license at the time of arXiv
+publication, matching the license of the companion repository.
