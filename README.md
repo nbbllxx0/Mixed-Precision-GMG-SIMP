@@ -9,8 +9,8 @@ Companion repository for:
 ## Status
 
 **Placeholder.** The reproducibility artifacts for this paper will be released
-here once the arXiv preprint is online. A BibTeX entry, tagged release, and
-Zenodo DOI will be added at that time.
+here once the arXiv preprint is online. A BibTeX entry and a tagged submission
+revision will be added at that time.
 
 ## Scope
 
